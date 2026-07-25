@@ -36,4 +36,4 @@ Microsoft Graph API automation
 
 ## Connect
 
-📍 Open to relocation/travel | [LinkedIn](#) | n8devs@gmail.com
+📍 Open to relocation/travel | [LinkedIn](https://www.linkedin.com/in/nathanael-pierre-louis/) | n8devs@gmail.com
