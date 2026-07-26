@@ -15,10 +15,10 @@ This portfolio translates that experience into modern cloud identity platforms (
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
-| 1 | [Automated JML Lifecycle Framework](./project-1-jml-lifecycle) | Graph API / PowerShell automation for joiner-mover-leaver workflows | 🔜 Not started |
-| 2 | [SSO & Federated Authentication Lab](./project-2-sso-federation) | SAML 2.0 / OIDC, JWT inspection, conditional access | 🔜 Not started |
-| 3 | [RBAC Entitlement Matrix & Access Audit](./project-3-rbac-audit) | Access governance, SoD, privilege creep remediation | 🚧 In progress |
-| 4 | [JIT Privileged Access & Break-Glass Lab](./project-4-pam-breakglass) | PIM, time-bound admin access, emergency account governance | 🔜 Not started |
+| 1 | [Automated JML Lifecycle Framework](./project-1-jml-lifecycle) | Graph API / PowerShell automation for joiner-mover-leaver workflows | Not started |
+| 2 | [SSO & Federated Authentication Lab](./project-2-sso-federation) | SAML 2.0 / OIDC, JWT inspection, conditional access | Not started |
+| 3 | [RBAC Entitlement Matrix & Access Audit](./project-3-rbac-audit) | Access governance, SoD, privilege creep remediation | Complete |
+| 4 | [JIT Privileged Access & Break-Glass Lab](./project-4-pam-breakglass) | PIM, time-bound admin access, emergency account governance | Not started |
 
 ## Tools & Environment
 
